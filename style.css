@@ -118,6 +118,14 @@ button{
         height: 230vh;
 
     }
+
+    img{
+        height: 200px;
+    }
+
+    video{
+        height: 200px;
+    }
 }
 
 @media (max-height:703px){
