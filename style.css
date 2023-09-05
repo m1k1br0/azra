@@ -119,3 +119,24 @@ button{
 
     }
 }
+
+@media (height:703px){
+    .page{
+        height: 160vh;
+    }
+
+    .page2{
+        height: 260vh;
+        
+    }
+
+    .page3{
+        height: 250vh;
+
+    }
+
+    .page4{
+        height: 250vh;
+
+    }
+}
