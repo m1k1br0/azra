@@ -120,7 +120,7 @@ button{
     }
 }
 
-@media (height:703px){
+@media (max-height:703px){
     .page{
         height: 160vh;
     }
@@ -137,6 +137,27 @@ button{
 
     .page4{
         height: 250vh;
+
+    }
+}
+
+@media (max-height:609px){
+    .page{
+        height: 190vh;
+    }
+
+    .page2{
+        height: 290vh;
+        
+    }
+
+    .page3{
+        height: 280vh;
+
+    }
+
+    .page4{
+        height: 280vh;
 
     }
 }
